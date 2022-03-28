@@ -12,6 +12,11 @@
      },
 
 {
+         "name": "DTAC-GAME-VIP-1",
+         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/DTAC-GAME-VIP-01.ovpn"
+      },
+
+{
          "name": "DTAC-VIP-1",
          "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/DTAC-VIP-01.ovpn"
      },
@@ -63,6 +68,11 @@
       },
 
 {
+         "name": "TRUE-GAME-VIP-1",
+         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/TRUE-GAME-VIP-01.ovpn"
+      },
+
+{
          "name": "TRUE-VIP-1",
          "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/TRUE-VIP-01.ovpn"
       },
@@ -104,11 +114,13 @@
 
 
    ],
-"message":"ဖိုင္အပ္ဒိပ္ဗားရွင္း(1.7)\n \nအားလုံးပဲ🙏မဂ်လာပါဗျာ 𝙑𝙄𝙋အားပေးသူ တစ်ယောက်ချင်းစီ ကျေးဇူးတင်လျက်ပါ 
+"message":"ဖိုင္အပ္ဒိပ္ဗားရွင္း(1.8)\n \nအားလုံးပဲ🙏မဂ်လာပါဗျာ 𝙑𝙄𝙋အားပေးသူ တစ်ယောက်ချင်းစီ ကျေးဇူးတင်လျက်ပါ 
+ဂိမ်းသမားများအတွက် 🇹🇭THAI SERVER
+ထည့်ထားသည်☺️
 𝙑𝙄𝙋-Ip-အသစ်လဲထားသည်🥰
 𝘿𝙩𝙖𝙘 𝘼𝙡𝙡 𝙋𝙧𝙤 𝙑𝙄𝙋
 𝙏𝙧𝙪𝙚 𝙉𝙤 𝙋𝙧𝙤 & 𝘼𝙡𝙡 𝙋𝙧𝙤 
 အဆင်မ‌‌ပြေတာရှိရင် 👉𝘾𝙗👈မှာ အကြံပြု ဆွေးနွေးနိုင်ပါသည် \n\n 𝘿𝙩𝙖𝙘𝙃𝙖𝙥𝙥𝙮𝙒𝙤𝙧𝙠\n\n 𝘿𝙩𝙖𝙘𝙇𝙞𝙣𝙚\n\n 𝘿𝙩𝙖𝙘𝙎𝙤𝙘𝙞𝙖𝙡\n 𝙏𝙧𝙪𝙚 𝙉𝙤 𝙋𝙧𝙤 & 𝘼𝙡𝙡 𝙋𝙧𝙤\n 𝙁𝙧𝙚𝙚-2\n   \n💔အျပဳံးတစ္ပြင့္ေၾကာင့္ ကြွေခဲ့တဲ့အသည္း💔",
    "title":"ဖိုင္အသစ္ရရွိနိုင္ပါၿပီ",
-   "version": 7
+   "version": 8
 }
