@@ -21,6 +21,11 @@
       },
 
 {
+         "name": "DTAC-GAME-VIP-2",
+         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/DTAC-GAME-VIP-02.ovpn"
+      },
+
+{
          "name": "DTAC-VIP-1",
          "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/DTAC-VIP-01.ovpn"
      },
@@ -68,6 +73,11 @@
       },
 
 {
+         "name": "TRUE-GAME-VIP-2",
+         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/TRUE-GAME-VIP-02.ovpn"
+      },
+
+{
          "name": "TRUE-VIP-1",
          "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/TRUE-VIP-01.ovpn"
       },
@@ -100,7 +110,7 @@
 
 
    ],
-"message":"ဖိုင္အပ္ဒိပ္ဗားရွင္း(2.1)\n \nအားလုံးပဲ🙏မဂ်လာပါဗျာ 𝙑𝙄𝙋အားပေးသူ တစ်ယောက်ချင်းစီ ကျေးဇူးတင်လျက်ပါ🥰 အခုအပ်ဒိပ်မယ်ကိုနိပ်ပေးပါဗျ
+"message":"ဖိုင္အပ္ဒိပ္ဗားရွင္း(2.2)\n \nအားလုံးပဲ🙏မဂ်လာပါဗျာ 𝙑𝙄𝙋အားပေးသူ တစ်ယောက်ချင်းစီ ကျေးဇူးတင်လျက်ပါ🥰 အခုအပ်ဒိပ်မယ်ကိုနိပ်ပေးပါဗျ
 
 𝘿𝙩𝙖𝙘 𝘼𝙡𝙡 𝙋𝙧𝙤 𝙑𝙄𝙋 💯
 
@@ -108,7 +118,7 @@
 
 💝.🇸🇬𝗦𝗚-𝙁𝙧𝙚𝙚 👉2ဖိုင်
 
-💚.🇹🇭𝗧𝗛-𝗩𝗜𝗣 👉1ဖိုင်
+💚.🇹🇭𝗧𝗛-𝗩𝗜𝗣 👉2ဖိုင်
 
 💙.🇸🇬𝗦𝗚-𝗩𝗜𝗣 👉6ဖိုင်
 
@@ -120,5 +130,5 @@
 အဆင်မ‌‌ပြေတာရှိရင် 👉𝘾𝙗👈မှာ အကြံပြု ဆွေးနွေးနိုင်ပါသည် \n\n 
 𝙏𝙧𝙪𝙚 𝙉𝙤 𝙋𝙧𝙤 & 𝘼𝙡𝙡 𝙋𝙧𝙤\n 𝙁𝙧𝙚𝙚-2\n   \n💔အပြုံးတစ်ပွင့်ကြောင့် ကြွေခဲ့တဲ့အသည်း💔",
    "title":"ဖိုင်အသစ်ရရှိနိုင်ပါပြီး",
-   "version": 11
+   "version": 12
 }
