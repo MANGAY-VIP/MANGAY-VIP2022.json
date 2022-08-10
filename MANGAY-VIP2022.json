@@ -5,6 +5,7 @@
          "name": "US-VIP-1",
          "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/US-VIP-01.ovpn"
      },
+
 {
          "name": "DTAC🇸🇬-FREE-1",
          "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/DTAC-FREE-001.ovpn"
@@ -15,6 +16,10 @@
          "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/DTAC-FREE-002.ovpn"
      },
 
+{
+         "name": "DTAC🇸🇬-FREE-3",
+         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/DTAC-FREE-003.ovpn"
+     },
 {
          "name": "DTAC-🇹🇭GAME-VIP-1",
          "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/DTAC-GAME-VIP-01.ovpn"
@@ -85,6 +90,11 @@
 {
          "name": "TRUE🇸🇬-FREE-2",
          "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/TRUE-FREE-002.ovpn"
+      },
+
+{
+         "name": "TRUE🇸🇬-FREE-3",
+         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/TRUE-FREE-003.ovpn"
       },
 
 {
