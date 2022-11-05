@@ -2,110 +2,220 @@
    "files": [  
 
 {
-         "name": "SG-DTAC-FREE-01",
-         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/SG-DTAC-FREE-01.ovpn"
+         "name": "US-AdsOnly-FREE-001",
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/US-FREE-001.ovpn"
+      },
+
+{
+         "name": "US-AdsOnly-FREE-002",
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/US-FREE-002.ovpn"
+      },
+
+{
+         "name": "US-AdsOnly-FREE-003",
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/US-FREE-003.ovpn"
+      },
+{
+         "name": "US-AdsOnly-FREE-004",
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/US-FREE-004.ovpn"
+      },
+
+
+{
+         "name": "US-AdsOnly-FREE-005",
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/US-FREE-005.ovpn"
+      },
+
+
+{
+         "name": "US-AdsOnly-FREE-006",
+         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/US-001.ovpn"
+      },
+
+
+{
+         "name": "US-AdsOnly-FREE-007",
+         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/US-002.ovpn"
+      },
+
+
+{
+         "name": "US-AdsOnly-FREE-008",
+         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/US-003.ovpn"
+      },
+
+
+{
+         "name": "US-AdsOnly-FREE-009",
+         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/US-004.ovpn"
+      },
+
+{
+         "name": "US-AdsOnly-FREE-010",
+         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/US-005.ovpn"
+      },
+
+{
+         "name": "SG-FREE-001",
+         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/SG-001.ovpn"
      },
 
 {
-         "name": "SG-DTAC-FREE-02",
-         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/SG-DTAC-FREE-02.ovpn"
+         "name": "SG-FREE-002",
+         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/SG-002.ovpn"
      },
 
 {
-         "name": "SG-DTAC-FREE-03",
-         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/SG-DTAC-FREE-03.ovpn"
+         "name": "SG-FREE-003",
+         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/SG-003.ovpn"
      },
 {
-         "name": "TH-DTAC-VIP-01",
-         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/DTAC-GAME-VIP-01.ovpn"
+         "name": "SG-FREE-004",
+         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/SG-004.ovpn"
       },
 
 {
-         "name": "TH-DTAC-VIP-02",
-         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/DTAC-GAME-VIP-2.ovpn"
+         "name": "SG-FREE-005",
+         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/SG-005.ovpn"
       },
 
 {
-         "name": "TH-DTAC-VIP-03",
-         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/DTAC-GAME-VIP-3.ovpn"
+         "name": "SG-FREE-006",
+         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/SG-006.ovpn"
       },
 
 {
-         "name": "TH-DTAC-VIP-04",
-         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/DTAC-GAME-VIP-4.ovpn"
+         "name": "SG-FREE-007",
+         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/SG-007.ovpn"
       },
 
 {
-         "name": "TH-DTAC-VIP-05",
-         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/DTAC-GAME-VIP-5.ovpn"
+         "name": "SG-FREE-008",
+         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/SG-008.ovpn"
       },
 
 {
-         "name": "TH-DTAC-VIP-06",
-         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/DTAC-GAME-VIP-6.ovpn"
+         "name": "SG-FREE-009",
+         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/SG-009.ovpn"
       },
 
 
 {
-         "name": "TH-DTAC-VIP-07",
-         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/DTAC-GAME-VIP-7.ovpn"
+         "name": "SG-FREE-010",
+         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/SG-010.ovpn"
       },
 
 {
-         "name": "SG-TRUE-FREE-01",
-         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/SG-TRUE-FREE-01.ovpn"
+         "name": "SG-FREE-011",
+         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/SG-011.ovpn"
       },
 
 {
-         "name": "SG-TRUE-FREE-02",
-         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/SG-TRUE-FREE-02.ovpn"
+         "name": "SG-FREE-012",
+         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/SG-012.ovpn"
       },
 
 {
-         "name": "SG-TRUE-FREE-03",
-         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/SG-TRUE-FREE-03.ovpn"
+         "name": "SG-FREE-013",
+         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/SG-013.ovpn"
       },
 
 {
-         "name": "TH-TRUE-VIP-01",
-         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/TRUE-GAME-VIP-01.ovpn"
+         "name": "SG-FREE-014",
+         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/SG-014.ovpn"
       },
 
 {
-         "name": "TH-TRUE-VIP-02",
-         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/TRUE-GAME-VIP-2.ovpn"
+         "name": "SG-FREE-015",
+         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/SG-015.ovpn"
       },
 
 {
-         "name": "TH-TRUE-VIP-03",
+         "name": "SG-FREE-016",
+         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/SG-016.ovpn"
+      },
+
+{
+         "name": "SG-FREE-017",
+         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/SG-017.ovpn"
+      },
+
+{
+         "name": "SG-FREE-018",
+         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/SG-018.ovpn"
+      },
+
+
+{
+         "name": "SG-FREE-019",
+         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/SG-019.ovpn"
+      },
+
+{
+         "name": "SG-FREE-020",
+         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/SG-020.ovpn"
+      },
+
+{
+         "name": "SG-FREE-021",
+         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/SG-021.ovpn"
+      },
+
+
+{
+         "name": "SG-FREE-022",
+         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/SG-022.ovpn"
+      },
+
+
+{
+         "name": "SG-FREE-023",
+         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/SG-023.ovpn"
+      },
+
+
+{
+         "name": "SG-FREE-024",
+         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/SG-024.ovpn"
+      },
+
+
+{
+         "name": "SG-FREE-025",
+         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/SG-025.ovpn"
+      },
+
+{
+         "name": "TH-FREE-001",
          "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/TRUE-GAME-VIP-3.ovpn"
       },
 
 {
-         "name": "TH-TRUE-VIP-04",
+         "name": "TH-FREE-002",
          "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/TRUE-GAME-VIP-4.ovpn"
       },
 
 {
-         "name": "TH-TRUE-VIP-05",
+         "name": "TH-FREE-003",
          "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/TRUE-GAME-VIP-5.ovpn"
       },
 
 {
-         "name": "TH-TRUE-VIP-06",
+         "name": "TH-FREE-004",
          "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/TRUE-GAME-VIP-6.ovpn"
       },
 
 {
-         "name": "TH-TRUE-VIP-07",
+         "name": "TH-FREE-005",
          "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/TRUE-GAME-VIP-7.ovpn"
       }
 
    ],
 "message":"\n📂ဖိုင်ဗားရှင်း📂(1.1)\n
 🙏ကျေးဇူးပြု၍ကျော်မသွားပါနဲ့ အပ်ဒိတ်ဖိုင်လုပ်ထားပေးပါ✅
-🇸🇬SG-FREE 3 ခု
-🇹🇭 TH-VIP 7 ခု
+🇺🇲US-FREE 10 ဖိုင်
+🇸🇬SG-FREE  25 ဖိုင်
+🇹🇭 TH-FREE 5 ဖိုင်
 \n🗂️ဖိုင်အသစ်ရပြီး🗂️ ",
    "title":"❗အပ်ဒိပ်နှိပ်ပေးပါ❗" ,
    "version": 1
