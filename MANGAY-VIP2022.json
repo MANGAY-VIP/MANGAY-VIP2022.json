@@ -77,6 +77,11 @@
       },
 
 {
+         "name": "DTAC-🇹🇭TH-VIP-013",
+         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/DTAC-GAME-VIP-013.ovpn"
+      },
+
+{
          "name": "TRUE-🇹🇭TH-FREE-001",
          "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/TH-FREE-001.ovpn"
       },
@@ -149,15 +154,19 @@
 {
          "name": "TRUE-🇹🇭TH-VIP-012",
          "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/TRUE-GAME-VIP-012.ovpn"
+       },
+{
+         "name": "TRUE-🇹🇭TH-VIP-013",
+         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/TRUE-GAME-VIP-013.ovpn"
       }
 
    ],
-"message":"\n📂ဖိုင်ဗားရှင်း📂(3.9)\n
+"message":"\n📂ဖိုင်ဗားရှင်း📂(4.0)\n
 🙏ကျေးဇူးပြု၍ကျော်မသွားပါနဲ့ အပ်ဒိတ်ဖိုင်လုပ်ထားပေးပါ✅
 🇹🇭 TH FREE 3ခု
 🇹🇭 TH SERVER အသစ်ထည့်ထား✅
-🇹🇭 TH-SERVER 12 ခု
+🇹🇭 TH-SERVER 13 ခု
 \n🗂️ဖိုင်အသစ်ရပြီး🗂️ ",
    "title":"❗အပ်ဒိပ်နှိပ်ပေးပါ❗" ,
-   "version": 29
+   "version": 30
 }
