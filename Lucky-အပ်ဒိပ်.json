@@ -1,6 +1,20 @@
 {
    "files": [    
 
+{
+         "name": "TH-AisPlay+64Kbps-001",
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/AisPlay%2B64Kbps-001.ovpn"
+      },
+
+{
+         "name": "TH-AisPlay+64Kbps-002",
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/AisPlay%2B64Kbps-002.ovpn"
+      },
+
+{
+         "name": "TH-AisPlay+64Kbps-003",
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/AisPlay%2B64Kbps-003.ovpn"
+},
 
 {
          "name": "TH-FREE-001",
@@ -20,38 +34,38 @@
 
 {
          "name": "TH-VIP-001",
-         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/TH-VIP-001.ovpn"
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-001.ovpn"
       },
 
 {
          "name": "TH-VIP-002",
-         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/TH-VIP-002.ovpn"
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-002.ovpn"
       },
 
 {
          "name": "TH-VIP-003",
-         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/TH-VIP-003.ovpn"
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-003.ovpn"
       },
 
 
 {
          "name": "TH-VIP-004",
-         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/TH-VIP-004.ovpn"
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-004.ovpn"
        },
 
 {
          "name": "TH-VIP-005",
-         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/TH-VIP-005.ovpn"
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-005.ovpn"
        },
 
 {
          "name": "TH-VIP-006",
-         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/TH-VIP-006.ovpn"
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-006.ovpn"
        },
 
 {
          "name": "TH-VIP-007",
-         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/TH-VIP-007.ovpn"
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-007.ovpn"
        },
 {
          "name": "TH-VIP-008",
@@ -60,7 +74,7 @@
 
 {
          "name": "TH-VIP-009",
-         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/TH-VIP-009.ovpn"
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-009.ovpn"
        },
 
 {
@@ -70,27 +84,27 @@
 
 {
          "name": "TH-VIP-011",
-         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/TH-VIP-011.ovpn"
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-011.ovpn"
       },
 {
          "name": "TH-VIP-012",
-         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/TH-VIP-012.ovpn"
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-012.ovpn"
       },
 {
          "name": "TH-VIP-013",
-         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/TH-VIP-013.ovpn"
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-013.ovpn"
       },
 {
          "name": "TH-VIP-014",
-         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/TH-VIP-014.ovpn"
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-014.ovpn"
       },
 {
          "name": "TH-VIP-015",
-         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/TH-VIP-015.ovpn"
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-015.ovpn"
       },
 {
          "name": "TH-VIP-016",
-         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/TH-VIP-016.ovpn"
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-0016.ovpn"
       }
 
    ],
