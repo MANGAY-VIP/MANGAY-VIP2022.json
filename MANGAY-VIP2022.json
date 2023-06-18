@@ -1,205 +1,157 @@
 {
    "files": [    
 
+
 {
-         "name": "DTAC-🇹🇭TH-FREE-001",
+         "name": "TH-AisPlay+64Kbps-001",
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/AisPlay%2B64Kbps-001.ovpn"
+      },
+
+{
+         "name": "TH-AisPlay+64Kbps-002",
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/AisPlay%2B64Kbps-002.ovpn"
+      },
+
+{
+         "name": "TH-AisPlay+64Kbps-003",
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/AisPlay%2B64Kbps-003.ovpn"
+      },
+
+{
+         "name": "TH-FREE-001",
          "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/TH-FREE-001.ovpn"
       },
 
 {
-         "name": "DTAC-🇹🇭TH-FREE-002",
+         "name": "TH-FREE-002",
          "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/TH-FREE-001.ovpn"
       },
 
 {
-         "name": "DTAC-🇹🇭TH-FREE-003",
+         "name": "TH-FREE-003",
          "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/TH-FREE-001.ovpn"
       },
 
 {
-         "name": "DTAC-🇹🇭TH-VIP-001",
+         "name": "SG-VIP-001",
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/SG-VIP-001.ovpn"
+      },
+
+{
+         "name": "SG-VIP-002",
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/SG-VIP-002.ovpn"
+      },
+
+{
+         "name": "SG-VIP-003",
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/SG-VIP-003.ovpn"
+      },
+
+{
+         "name": "SG-VIP-004",
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/SG-VIP-004.ovpn"
+      },
+
+{
+         "name": "SG-VIP-005",
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/SG-VIP-005.ovpn"
+      },
+
+{
+         "name": "TH-VIP-001",
          "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-001.ovpn"
       },
 
 {
-         "name": "DTAC-🇹🇭TH-VIP-002",
+         "name": "TH-VIP-002",
          "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-002.ovpn"
       },
 
 {
-         "name": "DTAC-🇹🇭TH-VIP-003",
+         "name": "TH-VIP-003",
          "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-003.ovpn"
       },
 
+
 {
-         "name": "DTAC-🇹🇭TH-VIP-004",
+         "name": "TH-VIP-004",
          "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-004.ovpn"
-      },
+       },
 
 {
-         "name": "DTAC-🇹🇭TH-VIP-005",
+         "name": "TH-VIP-005",
          "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-005.ovpn"
-      },
+       },
 
 {
-         "name": "DTAC-🇹🇭TH-VIP-006",
+         "name": "TH-VIP-006",
          "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-006.ovpn"
-      },
-
+       },
 
 {
-         "name": "DTAC-🇹🇭TH-VIP-007",
+         "name": "TH-VIP-007",
          "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-007.ovpn"
-      },
-
+       },
 {
-         "name": "DTAC-🇹🇭TH-VIP-008",
+         "name": "TH-VIP-008",
          "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-008.ovpn"
       },
 
 {
-         "name": "DTAC-🇹🇭TH-VIP-009",
-         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-009.ovpn"
-      },
-
-{
-         "name": "DTAC-🇹🇭TH-VIP-010",
-         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-010.ovpn"
-      },
-{
-         "name": "DTAC-🇹🇭TH-VIP-011",
-         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-011.ovpn"
-      },
-
-{
-         "name": "DTAC-🇹🇭TH-VIP-012",
-         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-012.ovpn"
-      },
-
-{
-         "name": "DTAC-🇹🇭TH-VIP-013",
-         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-013.ovpn"
-      },
-{
-         "name": "DTAC-🇹🇭TH-VIP-014",
-         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-014.ovpn"
-      },
-{
-         "name": "DTAC-🇹🇭TH-VIP-015",
-         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-015.ovpn"
-      },
-{
-         "name": "DTAC-🇹🇭TH-VIP-016",
-         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-016.ovpn"
-      },
-{
-         "name": "DTAC-🇹🇭TH-VIP-017",
-         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-017.ovpn"
-      },
-
-{
-         "name": "TRUE-🇹🇭TH-FREE-001",
-         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/TH-FREE-001.ovpn"
-      },
-
-{
-         "name": "TRUE-🇹🇭TH-FREE-002",
-         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/TH-FREE-001.ovpn"
-      },
-
-{
-         "name": "TRUE-🇹🇭TH-FREE-003",
-         "url": "https://raw.githubusercontent.com/MANGAY-VIP/MANGAY-VIP2022.json/main/TH-FREE-001.ovpn"
-      },
-
-{
-         "name": "TRUE-🇹🇭TH-VIP-001",
-         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-001.ovpn"
-      },
-
-{
-         "name": "TRUE-🇹🇭TH-VIP-002",
-         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-002.ovpn"
-      },
-
-{
-         "name": "TRUE-🇹🇭TH-VIP-003",
-         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-003.ovpn"
-      },
-
-{
-         "name": "TRUE-🇹🇭TH-VIP-004",
-         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-004.ovpn"
-      },
-
-{
-         "name": "TRUE-🇹🇭TH-VIP-005",
-         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-005.ovpn"
-      },
-
-{
-         "name": "TRUE-🇹🇭TH-VIP-006",
-         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-006.ovpn"
-      },
-
-{
-         "name": "TRUE-🇹🇭TH-VIP-007",
-         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-007.ovpn"
-      },
-
-{
-         "name": "TRUE-🇹🇭TH-VIP-008",
-         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-008.ovpn"
-      },
-
-{
-         "name": "TRUE-🇹🇭TH-VIP-009",
+         "name": "TH-VIP-009",
          "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-009.ovpn"
        },
 
 {
-         "name": "TRUE-🇹🇭TH-VIP-010",
+         "name": "TH-VIP-010",
          "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-010.ovpn"
        },
 
 {
-         "name": "TRUE-🇹🇭TH-VIP-011",
+         "name": "TH-VIP-011",
          "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-011.ovpn"
-       },
-
+      },
 {
-         "name": "TRUE-🇹🇭TH-VIP-012",
+         "name": "TH-VIP-012",
          "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-012.ovpn"
-       },
+      },
 {
-         "name": "TRUE-🇹🇭TH-VIP-013",
+         "name": "TH-VIP-013",
          "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-013.ovpn"
-       },
+      },
 {
-         "name": "TRUE-🇹🇭TH-VIP-014",
+         "name": "TH-VIP-014",
          "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-014.ovpn"
       },
 {
-         "name": "TRUE-🇹🇭TH-VIP-015",
+         "name": "TH-VIP-015",
          "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-015.ovpn"
       },
+
 {
-         "name": "TRUE-🇹🇭TH-VIP-016",
+         "name": "TH-VIP-016",
          "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-016.ovpn"
       },
 {
-         "name": "TRUE-🇹🇭TH-VIP-017",
+         "name": "TH-VIP-017",
          "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-017.ovpn"
+      },
+{
+         "name": "TH-VIP-018",
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-018.ovpn"
+      },
+{
+         "name": "TH-VIP-019",
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-019.ovpn"
+      },
+{
+         "name": "TH-VIP-020",
+         "url": "https://raw.githubusercontent.com/M-VPN/M-VPN.-/main/TH-VIP-020.ovpn"
       }
 
    ],
-"message":"\n📂ဖိုင်ဗားရှင်း📂(5.3)\n
-🙏ကျေးဇူးပြု၍ကျော်မသွားပါနဲ့ အပ်ဒိတ်ဖိုင်လုပ်ထားပေးပါ✅
-🇹🇭 TH FREE 3ခု
-🇹🇭AisPlay+64Kbps
-🇹🇭 TH SERVER အသစ်ထည့်ထား✅
-🇹🇭 TH-SERVER 17 ခု
-\n🗂️ဖိုင်အသစ်ရပြီး🗂️ ",
-   "title":"❗အပ်ဒိပ်နှိပ်ပေးပါ❗" ,
-   "version": 43
+"message":"📩𝐔𝐩𝐝𝐚𝐭𝐞📩\n\n•Version:26\n•🇹🇭𝐓𝐇 20 ဖိုင်
+•🇹🇭TH-FREE 3ဖိုင်\n\n•𝐀𝐝𝐝 𝐃𝐓𝐀𝐂&𝐓𝐫𝐮𝐞𝐌𝐨𝐯𝐞 𝐍𝐨𝐅𝐫𝐞𝐞\n•အားပေးမှုအတွက်ကျေးဇူးပါ🥰🙏\n\n•💔အပြုံးတစ်ပွင့်ကြောင့် ကြွေခဲ့တဲ့အသည်း💔",
+   "title":"💌𝐀𝐝𝐝 𝐍𝐞𝐰 𝐕𝐢𝐩💌" ,
+   "version": 32
 }
