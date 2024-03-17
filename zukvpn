@@ -72,7 +72,7 @@ Updateနှိပ်ပြီးဖိုင်အသစ်ရယူပါ",
     "content": "vless://66726565-7670-4e2e-b573-2d7367736731@true.vpnssh.online:80?path=%2Ffreevpn%2Ffreevpn.us-sgsg1%2FSG&security=none&encryption=none&host=sgc-s69.v2sv.xyz&type=ws#%5BSG%5D+freevpn.us-sgsg1"
     },
 {
-    "name": "Thailand-10 TRUE NoFree",
+    "name": "Thailand-10 TRUE Free",
     "content": "vless://66726565-7670-4e2e-b573-2d686462636e@apis.truemoney.com:443?path=%2Ffreevpn%2Ffreevpn.us-hdbcnf12%2FSG&security=tls&encryption=none&host=sgc-s12.v2sv.xyz&fp=randomized&type=ws&sni=sgc-s12.v2sv.xyz#%5BSG%5D+freevpn.us-hdbcnf12"
     }
     ]
