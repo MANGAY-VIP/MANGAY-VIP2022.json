@@ -1,9 +1,10 @@
 {
     "version": 1.0,
-    "message": "Free100% 
-🔵Dtac NoPro ✅
-🔴TrueMove NoPro ✅
-🟢AisPlay+64Kbpsစမတ်✅
+    "message": "𝐅𝐫𝐞𝐞100%
+🛰️ 𝐙𝐮𝐤𝐕𝐩𝐧 မှကြိုဆိုပါ၏
+🔵𝐃𝐭𝐚𝐜 𝐍𝐨𝐏𝐫𝐨 ✅
+🔴𝐓𝐫𝐮𝐞 𝐍𝐨𝐏𝐫𝐨 ✅
+🟢𝐀𝐢𝐬𝐏𝐥𝐚𝐲+64𝐊𝐛𝐩𝐬စမတ်✅
 Updateနှိပ်ပြီးဖိုင်အသစ်ရယူပါ",
     "data": [
 {
@@ -12,13 +13,59 @@ Updateနှိပ်ပြီးဖိုင်အသစ်ရယူပါ",
     },
 
 {
-    "name": "Thailand-01 Ais Nofree",
+    "name": "Thailand-01 AIS Nofree",
     "content": "vmess://eyJhZGQiOiJ2MnJheTEudGh1emFyLm9ubGluZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6ImIzNDkxNTdlLWM1YzMtNGQ5Mi1iOTQ0LTM1YTRlZThlOWE3MiIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODAiLCJwcyI6IkFJUy1WSVAtMDAxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
+    },
+{
+    "name": "Thailand-02 AIS Play+64Kbps",
+    "content": "vmess://eyJhZGQiOiJmcmVlMi5zcGFydC5jbG91ZCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6IjM3ZjZiYzVmLWE1NTctNDFiMy1hZjBhLTYyN2EzMTc3NzY4OCIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODAiLCJwcyI6IuGAgOGAreGAr+GAmuGAt+GAuuGAmeGAseGAuOGAgOGAreGAr+GAmuGAt+GAuuGAnOGAreGAr+GAuOGAluGAreGAr+GAhOGAuuGAnuGAgeGAreGAr+GAuC1saXRlMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+    },
+{
+    "name": "UnitedKingdom-01 TRUE Free",
+    "content": "trojan://7772bb24-976a-45ca-aa76-f4f1b7f50923@apis.truemoney.com:443?path=%2Fanything%2Ffreevpn.us-Bsgzvxvzcx%2Ftrojan&security=tls&host=v2-us-1.v2ray.cc&type=ws&sni=v2-us-1.v2ray.cc#%F0%9F%96%B2%EF%B8%8FUS-001"
+    },
+{
+    "name": "Thailand-01 TRUE Free",
+    "content": "vless://66726565-7670-4e2e-b573-2d7367736731@true.vpnssh.online:80?path=%2Ffreevpn%2Ffreevpn.us-sgsg1%2FSG&security=none&encryption=none&host=sgc-s69.v2sv.xyz&type=ws#%5BSG%5D+freevpn.us-sgsg1"
+    },
+{
+    "name": "Thailand-02 TRUE Free",
+    "content": "vless://66726565-7670-4e2e-b573-2d766273627a@apis.truemoney.com:443?path=%2Ffreevpn%2Ffreevpn.us-vbsbzvzv19%2FSG&security=tls&encryption=none&host=sgc-s19.v2sv.xyz&fp=randomized&type=ws&sni=sgc-s19.v2sv.xyz#%5BSG%5D+freevpn.us-vbsbzvzv19"
     },
 
 {
-    "name": "Thailand-01 TRUE NoFree",
-    "content": "vless://66726565-7670-4e2e-b573-2d7367736732@truepro.ddns.net:80?path=%2Ffreevpn%2Ffreevpn.us-sgsg28%2FSG&security=none&encryption=none&host=sgc-s28.v2sv.xyz&type=ws#%5BSG%5D+freevpn.us-sgsg28"
+    "name": "Thailand-03 TRUE Free",
+    "content": "vless://66726565-7670-4e2e-b573-2d6864767a62@apis.truemoney.com:443?path=%2Ffreevpn%2Ffreevpn.us-hdvzbn46%2FSG&security=tls&encryption=none&host=sgc-s46.v2sv.xyz&fp=randomized&type=ws&sni=sgc-s46.v2sv.xyz#%5BSG%5D+freevpn.us-hdvzbn46"
+    },
+
+{
+    "name": "Thailand-04 TRUE Free",
+    "content": "vless://66726565-7670-4e2e-b573-2d767a767a6e@apis.truemoney.com:443?path=%2Ffreevpn%2Ffreevpn.us-vzvznn69%2FSG&security=tls&encryption=none&host=sgc-s69.v2sv.xyz&fp=randomized&type=ws&sni=sgc-s69.v2sv.xyz#%5BSG%5D+freevpn.us-vzvznn69"
+    },
+
+{
+    "name": "Thailand-05 TRUE Free",
+    "content": "vless://66726565-7670-4e2e-b573-2d767a627a6e@cdn.jsdelivr.net:443?path=%2Ffreevpn%2Ffreevpn.us-vzbznzn34%2FIN&security=tls&encryption=none&host=inc-s34.v2sv.xyz&fp=randomized&type=ws&sni=inc-s34.v2sv.xyz#%5BIN%5D+freevpn.us-vzbznzn34"
+    },
+{
+    "name": "Thailand-06 TRUE Free",
+    "content": "vless://66726565-7670-4e2e-b573-2d6864627a62@apis.truemoney.com:443?path=%2Ffreevpn%2Ffreevpn.us-hdbzbzb39%2FIN&security=tls&encryption=none&host=inc-s39.v2sv.xyz&fp=randomized&type=ws&sni=inc-s39.v2sv.xyz#%5BIN%5D+freevpn.us-hdbzbzb39"
+    },
+{
+    "name": "Thailand-07 TRUE Free",
+    "content": "vless://66726565-7670-4e2e-b573-2d7367736731@true.vpnssh.online:80?path=%2Ffreevpn%2Ffreevpn.us-sgsg1%2FSG&security=none&encryption=none&host=sgc-s69.v2sv.xyz&type=ws#%5BSG%5D+freevpn.us-sgsg1"
+    },
+{
+    "name": "Thailand-08 TRUE Free",
+    "content": "vless://66726565-7670-4e2e-b573-2d7367736732@true.vpnssh.online:80?path=%2Ffreevpn%2Ffreevpn.us-sgsg28%2FSG&security=none&encryption=none&host=sgc-s28.v2sv.xyz&type=ws#%5BSG%5D+freevpn.us-sgsg28"
+    },
+{
+    "name": "Thailand-09 TRUE Free",
+    "content": "vless://66726565-7670-4e2e-b573-2d7367736731@true.vpnssh.online:80?path=%2Ffreevpn%2Ffreevpn.us-sgsg1%2FSG&security=none&encryption=none&host=sgc-s69.v2sv.xyz&type=ws#%5BSG%5D+freevpn.us-sgsg1"
+    },
+{
+    "name": "Thailand-10 TRUE NoFree",
+    "content": "vless://66726565-7670-4e2e-b573-2d686462636e@apis.truemoney.com:443?path=%2Ffreevpn%2Ffreevpn.us-hdbcnf12%2FSG&security=tls&encryption=none&host=sgc-s12.v2sv.xyz&fp=randomized&type=ws&sni=sgc-s12.v2sv.xyz#%5BSG%5D+freevpn.us-hdbcnf12"
     }
     ]
     }
