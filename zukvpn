@@ -1,12 +1,137 @@
 {
-    "version": 1.0,
+    "version": 1.2,
     "message": "𝐅𝐫𝐞𝐞100%
 🛰️ 𝐙𝐮𝐤𝐕𝐩𝐧 မှကြိုဆိုပါ၏
+🔵𝐃𝐭𝐚𝐜 𝐍𝐨𝐏𝐫𝐨 ✅
 🔴𝐓𝐫𝐮𝐞 𝐍𝐨𝐏𝐫𝐨 ✅
 🟢𝐀𝐢𝐬𝐏𝐥𝐚𝐲+64𝐊𝐛𝐩𝐬စမတ်✅
 Updateနှိပ်ပြီးဖိုင်အသစ်ရယူပါ",
     "data": [
 {
+    "name": "India-01 DTAC Free",
+    "content": "vless://66726565-7670-4e2e-b573-2d6264667a63@dtac.vpnssh.online:80?path=%2Ffreevpn%2Ffreevpn.us-bdfzc143%2FIN&security=none&encryption=none&host=inc-s143.v2sv.xyz&type=ws#%5BIN%5Dfree"
+    },
+
+{
+    "name": "India-02 DTAC Free",
+    "content": "vless://66726565-7670-4e2e-b573-2d6264667a63@dtac.vpnssh.online:80?path=%2Ffreevpn%2Ffreevpn.us-bdfzc143%2FIN&security=none&encryption=none&host=inc-s143.v2sv.xyz&type=ws#%5BIN%5Dfree"
+    },
+
+{
+    "name": "India-03 DTAC Free",
+    "content": "vless://66726565-7670-4e2e-b573-2d6264667a63@dtac.vpnssh.online:80?path=%2Ffreevpn%2Ffreevpn.us-bdfzc143%2FIN&security=none&encryption=none&host=inc-s143.v2sv.xyz&type=ws#%5BIN%5Dfree"
+    },
+
+{
+    "name": "India-01 TRUE Free",
+    "content": "vless://66726565-7670-4e2e-b573-2d6264667a63@true.vpnssh.online:80?path=%2Ffreevpn%2Ffreevpn.us-bdfzc143%2FIN&security=none&encryption=none&host=inc-s143.v2sv.xyz&type=ws#%5BIN%5Dfree"
+    },
+
+{
+    "name": "India-02 TRUE Free",
+    "content": "vless://66726565-7670-4e2e-b573-2d6264667a63@true.vpnssh.online:80?path=%2Ffreevpn%2Ffreevpn.us-bdfzc143%2FIN&security=none&encryption=none&host=inc-s143.v2sv.xyz&type=ws#%5BIN%5Dfree"
+    },
+
+{
+    "name": "India-03 TRUE Free",
+    "content": "vless://66726565-7670-4e2e-b573-2d6264667a63@true.vpnssh.online:80?path=%2Ffreevpn%2Ffreevpn.us-bdfzc143%2FIN&security=none&encryption=none&host=inc-s143.v2sv.xyz&type=ws#%5BIN%5Dfree"
+    },
+
+{
+    "name": "UnitedKingdom-01 DTAC Free",
+    "content": "vless://66726565-7670-4e2e-b573-2d6264667a63@true.vpnssh.online:80?path=%2Ffreevpn%2Ffreevpn.us-bdfzc143%2FIN&security=none&encryption=none&host=inc-s143.v2sv.xyz&type=ws#%5BIN%5Dfree"
+    },
+{
+    "name": "UnitedKingdom-02 DTAC Free",
+    "content": "vless://66726565-7670-4e2e-b573-2d6264667a63@dtac.vpnssh.online:80?path=%2Ffreevpn%2Ffreevpn.us-bdfzc143%2FIN&security=none&encryption=none&host=inc-s143.v2sv.xyz&type=ws#%5BIN%5Dfree"
+    },
+{
+    "name": "UnitedKingdom-03 DTAC Free",
+    "content": "vless://66726565-7670-4e2e-b573-2d6264667a63@dtac.vpnssh.online:80?path=%2Ffreevpn%2Ffreevpn.us-bdfzc143%2FIN&security=none&encryption=none&host=inc-s143.v2sv.xyz&type=ws#%5BIN%5Dfree"
+    },
+
+{
+    "name": "UnitedKingdom-01 TRUE Free",
+    "content": "vless://66726565-7670-4e2e-b573-2d6264667a63@true.vpnssh.online:80?path=%2Ffreevpn%2Ffreevpn.us-bdfzc143%2FIN&security=none&encryption=none&host=inc-s143.v2sv.xyz&type=ws#%5BIN%5Dfree"
+    },
+
+{
+    "name": "UnitedKingdom-02 TRUE Free",
+    "content": "vless://66726565-7670-4e2e-b573-2d6264667a63@true.vpnssh.online:80?path=%2Ffreevpn%2Ffreevpn.us-bdfzc143%2FIN&security=none&encryption=none&host=inc-s143.v2sv.xyz&type=ws#%5BIN%5Dfree"
+    },
+
+{
+    "name": "UnitedKingdom-03 TRUE Free",
+    "content": "vless://66726565-7670-4e2e-b573-2d6264667a63@true.vpnssh.online:80?path=%2Ffreevpn%2Ffreevpn.us-bdfzc143%2FIN&security=none&encryption=none&host=inc-s143.v2sv.xyz&type=ws#%5BIN%5Dfree"
+    },
+
+{
+    "name": "Singapore-01 DTAC Free",
+    "content": "vless://66726565-7670-4e2e-b573-2d627a767a62@dtac.vpnssh.online:80?path=%2Ffreevpn%2Ffreevpn.us-bzvzbb142%2FSG&security=none&encryption=none&host=sgc-s142.v2sv.xyz&type=ws#%5BSG%5D+free"
+    },
+
+{
+    "name": "Singapore-02 DTAC Free",
+    "content": "vless://66726565-7670-4e2e-b573-2d627a767a62@dtac.vpnssh.online:80?path=%2Ffreevpn%2Ffreevpn.us-bzvzbb142%2FSG&security=none&encryption=none&host=sgc-s142.v2sv.xyz&type=ws#%5BSG%5D+free"
+    },
+
+{
+    "name": "Singapore-03 DTAC Free",
+    "content": "vless://66726565-7670-4e2e-b573-2d627a767a62@dtac.vpnssh.online:80?path=%2Ffreevpn%2Ffreevpn.us-bzvzbb142%2FSG&security=none&encryption=none&host=sgc-s142.v2sv.xyz&type=ws#%5BSG%5D+free"
+    },
+{
+    "name": "Singapore-04 DTAC Free",
+    "content": "vless://66726565-7670-4e2e-b573-2d627a767a62@dtac.vpnssh.online:80?path=%2Ffreevpn%2Ffreevpn.us-bzvzbb142%2FSG&security=none&encryption=none&host=sgc-s142.v2sv.xyz&type=ws#%5BSG%5D+free"
+    },
+{
+    "name": "Singapore-05 DTAC Free",
+    "content": "vless://66726565-7670-4e2e-b573-2d627a767a62@dtac.vpnssh.online:80?path=%2Ffreevpn%2Ffreevpn.us-bzvzbb142%2FSG&security=none&encryption=none&host=sgc-s142.v2sv.xyz&type=ws#%5BSG%5D+free"
+    },
+{
+    "name": "Singapore-06 DTAC Free",
+    "content": "vless://66726565-7670-4e2e-b573-2d627a767a62@dtac.vpnssh.online:80?path=%2Ffreevpn%2Ffreevpn.us-bzvzbb142%2FSG&security=none&encryption=none&host=sgc-s142.v2sv.xyz&type=ws#%5BSG%5D+free"
+    },
+{
+    "name": "Singapore-07 DTAC Free",
+    "content": "vless://66726565-7670-4e2e-b573-2d627a767a62@dtac.vpnssh.online:80?path=%2Ffreevpn%2Ffreevpn.us-bzvzbb142%2FSG&security=none&encryption=none&host=sgc-s142.v2sv.xyz&type=ws#%5BSG%5D+free"
+    },
+
+{
+    "name": "Singapore-01 TRUE Free",
+    "content": "vless://66726565-7670-4e2e-b573-2d627a767a62@true.vpnssh.online:80?path=%2Ffreevpn%2Ffreevpn.us-bzvzbb142%2FSG&security=none&encryption=none&host=sgc-s142.v2sv.xyz&type=ws#%5BSG%5D+free"
+    },
+
+{
+    "name": "Singapore-02 TRUE Free",
+    "content": "vless://66726565-7670-4e2e-b573-2d627a767a62@true.vpnssh.online:80?path=%2Ffreevpn%2Ffreevpn.us-bzvzbb142%2FSG&security=none&encryption=none&host=sgc-s142.v2sv.xyz&type=ws#%5BSG%5D+free"
+    },
+
+{
+    "name": "Singapore-03 TRUE Free",
+    "content": "vless://66726565-7670-4e2e-b573-2d627a767a62@true.vpnssh.online:80?path=%2Ffreevpn%2Ffreevpn.us-bzvzbb142%2FSG&security=none&encryption=none&host=sgc-s142.v2sv.xyz&type=ws#%5BSG%5D+free"
+    },
+
+{
+    "name": "Singapore-04 TRUE Free",
+    "content": "vless://66726565-7670-4e2e-b573-2d627a767a62@true.vpnssh.online:80?path=%2Ffreevpn%2Ffreevpn.us-bzvzbb142%2FSG&security=none&encryption=none&host=sgc-s142.v2sv.xyz&type=ws#%5BSG%5D+free"
+    },
+
+{
+    "name": "Singapore-05 TRUE Free",
+    "content": "vless://66726565-7670-4e2e-b573-2d627a767a62@true.vpnssh.online:80?path=%2Ffreevpn%2Ffreevpn.us-bzvzbb142%2FSG&security=none&encryption=none&host=sgc-s142.v2sv.xyz&type=ws#%5BSG%5D+free"
+    },
+
+{
+    "name": "Singapore-06 TRUE Free",
+    "content": "vless://66726565-7670-4e2e-b573-2d627a767a62@true.vpnssh.online:80?path=%2Ffreevpn%2Ffreevpn.us-bzvzbb142%2FSG&security=none&encryption=none&host=sgc-s142.v2sv.xyz&type=ws#%5BSG%5D+free"
+    },
+
+{
+    "name": "Singapore-07 TRUE Free",
+    "content": "vless://66726565-7670-4e2e-b573-2d627a767a62@true.vpnssh.online:80?path=%2Ffreevpn%2Ffreevpn.us-bzvzbb142%2FSG&security=none&encryption=none&host=sgc-s142.v2sv.xyz&type=ws#%5BSG%5D+free"
+    },
+
+    {
     "name": "Thailand-01 AIS Play+64Kbps",
     "content": "vmess://eyJhZGQiOiJmcmVlMS5zcGFydC5jbG91ZCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6ImNhOWIxOTAxLTkwYTktNDAyMC1iNDExLTc5MTk0YTUyNDAxZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODAiLCJwcyI6IuGAgOGAreGAr+GAmuGAt+GAuuGAmeGAseGAuOGAgOGAreGAr+GAmuGAt+GAuuGAnOGAreGAr+GAuOGAluGAreGAr+GAhOGAuuGAnuGAgeGAreGAr+GAuC1saXRlMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
     },
@@ -22,52 +147,98 @@ Updateနှိပ်ပြီးဖိုင်အသစ်ရယူပါ",
     "name": "Thailand-04 AIS Play+64Kbps",
     "content": "vmess://eyJhZGQiOiJmcmVlMi5zcGFydC5jbG91ZCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6IjdhNTJmZjU5LTg3NjYtNDkzYy04YzFlLThkNzBjZTMwMTczZiIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODAiLCJwcyI6IuGAgOGAreGAr+GAmuGAt+GAuuGAmeGAseGAuOGAgOGAreGAr+GAmuGAt+GAuuGAnOGAreGAr+GAuOGAluGAreGAr+GAhOGAuuGAnuGAgeGAreGAr+GAuC1saXRlNCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
     },
+
 {
-    "name": "UnitedKingdom-01 TRUE Free",
-    "content": "trojan://7772bb24-976a-45ca-aa76-f4f1b7f50923@apis.truemoney.com:443?path=%2Fanything%2Ffreevpn.us-Bsgzvxvzcx%2Ftrojan&security=tls&host=v2-us-1.v2ray.cc&type=ws&sni=v2-us-1.v2ray.cc#%F0%9F%96%B2%EF%B8%8FUS-001"
+    "name": "Thailand-05 AIS Play+64Kbps",
+    "content": "vmess://eyJhZGQiOiJmcmVlMS5zcGFydC5jbG91ZCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6ImE2ODIwODFhLWUwYzAtNDIzMS1hOTY3LTQwZDVjOTI4YjM1YiIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODAiLCJwcyI6IuGAgOGAreGAr+GAmuGAt+GAuuGAmeGAseGAuOGAgOGAreGAr+GAmuGAt+GAuuGAnOGAreGAr+GAuOGAluGAreGAr+GAhOGAuuGAnuGAgeGAreGAr+GAuC1saXRlNSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+    },
+
+{
+    "name": "Thailand-06 AIS Play+64Kbps",
+    "content": "vmess://eyJhZGQiOiJmcmVlMi5zcGFydC5jbG91ZCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6ImFkOGMyMjFjLTBkNTEtNGNhZC04MmU2LWM5YzlmZTNmMDAzMyIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODAiLCJwcyI6IuGAgOGAreGAr+GAmuGAt+GAuuGAmeGAseGAuOGAgOGAreGAr+GAmuGAt+GAuuGAnOGAreGAr+GAuOGAluGAreGAr+GAhOGAuuGAnuGAgeGAreGAr+GAuC1saXRlNiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+    },
+
+{
+    "name": "Thailand-07 AIS Play+64Kbps",
+    "content": "vmess://eyJhZGQiOiJmcmVlMS5zcGFydC5jbG91ZCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6IjEzODE0MjU2LTJlYTUtNGQxOC05MDFhLTkwZTdmOTQ5YzY0NiIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODAiLCJwcyI6IuGAgOGAreGAr+GAmuGAt+GAuuGAmeGAseGAuOGAgOGAreGAr+GAmuGAt+GAuuGAnOGAreGAr+GAuOGAluGAreGAr+GAhOGAuuGAnuGAgeGAreGAr+GAuC1saXRlNyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+    },
+
+{
+    "name": "Thailand-08 AIS Play+64Kbps",
+    "content": "vmess://eyJhZGQiOiJmcmVlMi5zcGFydC5jbG91ZCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6IjU1YWU2ODQ1LTNjMTQtNGI4Yy1hOGQ2LTk0ZmRhZjAyZDNjOCIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiODAiLCJwcyI6IuGAgOGAreGAr+GAmuGAt+GAuuGAmeGAseGAuOGAgOGAreGAr+GAmuGAt+GAuuGAnOGAreGAr+GAuOGAluGAreGAr+GAhOGAuuGAnuGAgeGAreGAr+GAuC1saXRlOCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+    },
+
+{
+    "name": "Thailand-01 DTAC Free",
+    "content": "vmess://eyJhZGQiOiJkdGFjLnZwbnNzaC5vbmxpbmUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZyZWUxLnNwYXJ0LmNsb3VkIiwiaWQiOiJjYTliMTkwMS05MGE5LTQwMjAtYjQxMS03OTE5NGE1MjQwMWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5IiwicG9ydCI6IjgwIiwicHMiOiLhgIDhgK3hgK/hgJrhgLfhgLrhgJnhgLHhgLjhgIDhgK3hgK/hgJrhgLfhgLrhgJzhgK3hgK/hgLjhgJbhgK3hgK/hgIThgLrhgJ7hgIHhgK3hgK/hgLgtbGl0ZTEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
     },
 {
+    "name": "Thailand-02 DTAC Free",
+    "content": "vmess://eyJhZGQiOiJkdGFjLnZwbnNzaC5vbmxpbmUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZyZWUyLnNwYXJ0LmNsb3VkIiwiaWQiOiIzN2Y2YmM1Zi1hNTU3LTQxYjMtYWYwYS02MjdhMzE3Nzc2ODgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5IiwicG9ydCI6IjgwIiwicHMiOiLhgIDhgK3hgK/hgJrhgLfhgLrhgJnhgLHhgLjhgIDhgK3hgK/hgJrhgLfhgLrhgJzhgK3hgK/hgLjhgJbhgK3hgK/hgIThgLrhgJ7hgIHhgK3hgK/hgLgtbGl0ZTIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+    },
+{
+    "name": "Thailand-03 DTAC Free",
+    "content": "vmess://eyJhZGQiOiJkdGFjLnZwbnNzaC5vbmxpbmUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZyZWUxLnNwYXJ0LmNsb3VkIiwiaWQiOiI2MzE3Nzc2NC03ZjQzLTRjNjYtODMyNS0xNTYxOTY0ODQ4MTciLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5IiwicG9ydCI6IjgwIiwicHMiOiLhgIDhgK3hgK/hgJrhgLfhgLrhgJnhgLHhgLjhgIDhgK3hgK/hgJrhgLfhgLrhgJzhgK3hgK/hgLjhgJbhgK3hgK/hgIThgLrhgJ7hgIHhgK3hgK/hgLgtbGl0ZTMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+    },
+{
+    "name": "Thailand-04 DTAC Free",
+    "content": "vmess://eyJhZGQiOiJkdGFjLnZwbnNzaC5vbmxpbmUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZyZWUyLnNwYXJ0LmNsb3VkIiwiaWQiOiI3YTUyZmY1OS04NzY2LTQ5M2MtOGMxZS04ZDcwY2UzMDE3M2YiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5IiwicG9ydCI6IjgwIiwicHMiOiLhgIDhgK3hgK/hgJrhgLfhgLrhgJnhgLHhgLjhgIDhgK3hgK/hgJrhgLfhgLrhgJzhgK3hgK/hgLjhgJbhgK3hgK/hgIThgLrhgJ7hgIHhgK3hgK/hgLgtbGl0ZTQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+    },
+
+{
+    "name": "Thailand-05 DTAC Free",
+    "content": "vmess://eyJhZGQiOiJkdGFjLnZwbnNzaC5vbmxpbmUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZyZWUxLnNwYXJ0LmNsb3VkIiwiaWQiOiJhNjgyMDgxYS1lMGMwLTQyMzEtYTk2Ny00MGQ1YzkyOGIzNWIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5IiwicG9ydCI6IjgwIiwicHMiOiLhgIDhgK3hgK/hgJrhgLfhgLrhgJnhgLHhgLjhgIDhgK3hgK/hgJrhgLfhgLrhgJzhgK3hgK/hgLjhgJbhgK3hgK/hgIThgLrhgJ7hgIHhgK3hgK/hgLgtbGl0ZTUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+    },
+{
+    "name": "Thailand-06 DTAC Free",
+    "content": "vmess://eyJhZGQiOiJkdGFjLnZwbnNzaC5vbmxpbmUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZyZWUyLnNwYXJ0LmNsb3VkIiwiaWQiOiJhZDhjMjIxYy0wZDUxLTRjYWQtODJlNi1jOWM5ZmUzZjAwMzMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5IiwicG9ydCI6IjgwIiwicHMiOiLhgIDhgK3hgK/hgJrhgLfhgLrhgJnhgLHhgLjhgIDhgK3hgK/hgJrhgLfhgLrhgJzhgK3hgK/hgLjhgJbhgK3hgK/hgIThgLrhgJ7hgIHhgK3hgK/hgLgtbGl0ZTYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+    },
+
+{
+    "name": "Thailand-07 DTAC Free",
+    "content": "vmess://eyJhZGQiOiJkdGFjLnZwbnNzaC5vbmxpbmUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZyZWUxLnNwYXJ0LmNsb3VkIiwiaWQiOiIxMzgxNDI1Ni0yZWE1LTRkMTgtOTAxYS05MGU3Zjk0OWM2NDYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5IiwicG9ydCI6IjgwIiwicHMiOiLhgIDhgK3hgK/hgJrhgLfhgLrhgJnhgLHhgLjhgIDhgK3hgK/hgJrhgLfhgLrhgJzhgK3hgK/hgLjhgJbhgK3hgK/hgIThgLrhgJ7hgIHhgK3hgK/hgLgtbGl0ZTciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+    },
+
+{
+    "name": "Thailand-08 DTAC Free",
+    "content": "vmess://eyJhZGQiOiJkdGFjLnZwbnNzaC5vbmxpbmUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZyZWUyLnNwYXJ0LmNsb3VkIiwiaWQiOiI1NWFlNjg0NS0zYzE0LTRiOGMtYThkNi05NGZkYWYwMmQzYzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5IiwicG9ydCI6IjgwIiwicHMiOiLhgIDhgK3hgK/hgJrhgLfhgLrhgJnhgLHhgLjhgIDhgK3hgK/hgJrhgLfhgLrhgJzhgK3hgK/hgLjhgJbhgK3hgK/hgIThgLrhgJ7hgIHhgK3hgK/hgLgtbGl0ZTgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+    },
+
+{
     "name": "Thailand-01 TRUE Free",
-    "content": "vless://66726565-7670-4e2e-b573-2d7367736731@true.vpnssh.online:80?path=%2Ffreevpn%2Ffreevpn.us-sgsg1%2FSG&security=none&encryption=none&host=sgc-s69.v2sv.xyz&type=ws#%5BSG%5D+freevpn.us-sgsg1"
+    "content": "vmess://eyJhZGQiOiJ0cnVlLnZwbnNzaC5vbmxpbmUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZyZWUxLnNwYXJ0LmNsb3VkIiwiaWQiOiJjYTliMTkwMS05MGE5LTQwMjAtYjQxMS03OTE5NGE1MjQwMWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5IiwicG9ydCI6IjgwIiwicHMiOiLhgIDhgK3hgK/hgJrhgLfhgLrhgJnhgLHhgLjhgIDhgK3hgK/hgJrhgLfhgLrhgJzhgK3hgK/hgLjhgJbhgK3hgK/hgIThgLrhgJ7hgIHhgK3hgK/hgLgtbGl0ZTEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
     },
 {
     "name": "Thailand-02 TRUE Free",
-    "content": "vless://66726565-7670-4e2e-b573-2d766273627a@apis.truemoney.com:443?path=%2Ffreevpn%2Ffreevpn.us-vbsbzvzv19%2FSG&security=tls&encryption=none&host=sgc-s19.v2sv.xyz&fp=randomized&type=ws&sni=sgc-s19.v2sv.xyz#%5BSG%5D+freevpn.us-vbsbzvzv19"
+    "content": "vmess://eyJhZGQiOiJ0cnVlLnZwbnNzaC5vbmxpbmUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZyZWUyLnNwYXJ0LmNsb3VkIiwiaWQiOiIzN2Y2YmM1Zi1hNTU3LTQxYjMtYWYwYS02MjdhMzE3Nzc2ODgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5IiwicG9ydCI6IjgwIiwicHMiOiLhgIDhgK3hgK/hgJrhgLfhgLrhgJnhgLHhgLjhgIDhgK3hgK/hgJrhgLfhgLrhgJzhgK3hgK/hgLjhgJbhgK3hgK/hgIThgLrhgJ7hgIHhgK3hgK/hgLgtbGl0ZTIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
     },
-
 {
     "name": "Thailand-03 TRUE Free",
-    "content": "vless://66726565-7670-4e2e-b573-2d6864767a62@apis.truemoney.com:443?path=%2Ffreevpn%2Ffreevpn.us-hdvzbn46%2FSG&security=tls&encryption=none&host=sgc-s46.v2sv.xyz&fp=randomized&type=ws&sni=sgc-s46.v2sv.xyz#%5BSG%5D+freevpn.us-hdvzbn46"
+    "content": "vmess://eyJhZGQiOiJ0cnVlLnZwbnNzaC5vbmxpbmUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZyZWUxLnNwYXJ0LmNsb3VkIiwiaWQiOiI2MzE3Nzc2NC03ZjQzLTRjNjYtODMyNS0xNTYxOTY0ODQ4MTciLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5IiwicG9ydCI6IjgwIiwicHMiOiLhgIDhgK3hgK/hgJrhgLfhgLrhgJnhgLHhgLjhgIDhgK3hgK/hgJrhgLfhgLrhgJzhgK3hgK/hgLjhgJbhgK3hgK/hgIThgLrhgJ7hgIHhgK3hgK/hgLgtbGl0ZTMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
     },
-
 {
     "name": "Thailand-04 TRUE Free",
-    "content": "vless://66726565-7670-4e2e-b573-2d767a767a6e@apis.truemoney.com:443?path=%2Ffreevpn%2Ffreevpn.us-vzvznn69%2FSG&security=tls&encryption=none&host=sgc-s69.v2sv.xyz&fp=randomized&type=ws&sni=sgc-s69.v2sv.xyz#%5BSG%5D+freevpn.us-vzvznn69"
+    "content": "vmess://eyJhZGQiOiJ0cnVlLnZwbnNzaC5vbmxpbmUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZyZWUyLnNwYXJ0LmNsb3VkIiwiaWQiOiI3YTUyZmY1OS04NzY2LTQ5M2MtOGMxZS04ZDcwY2UzMDE3M2YiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5IiwicG9ydCI6IjgwIiwicHMiOiLhgIDhgK3hgK/hgJrhgLfhgLrhgJnhgLHhgLjhgIDhgK3hgK/hgJrhgLfhgLrhgJzhgK3hgK/hgLjhgJbhgK3hgK/hgIThgLrhgJ7hgIHhgK3hgK/hgLgtbGl0ZTQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
     },
 
 {
     "name": "Thailand-05 TRUE Free",
-    "content": "vless://66726565-7670-4e2e-b573-2d767a627a6e@cdn.jsdelivr.net:443?path=%2Ffreevpn%2Ffreevpn.us-vzbznzn34%2FIN&security=tls&encryption=none&host=inc-s34.v2sv.xyz&fp=randomized&type=ws&sni=inc-s34.v2sv.xyz#%5BIN%5D+freevpn.us-vzbznzn34"
+    "content": "vmess://eyJhZGQiOiJ0cnVlLnZwbnNzaC5vbmxpbmUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZyZWUxLnNwYXJ0LmNsb3VkIiwiaWQiOiJhNjgyMDgxYS1lMGMwLTQyMzEtYTk2Ny00MGQ1YzkyOGIzNWIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5IiwicG9ydCI6IjgwIiwicHMiOiLhgIDhgK3hgK/hgJrhgLfhgLrhgJnhgLHhgLjhgIDhgK3hgK/hgJrhgLfhgLrhgJzhgK3hgK/hgLjhgJbhgK3hgK/hgIThgLrhgJ7hgIHhgK3hgK/hgLgtbGl0ZTUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
     },
+
 {
     "name": "Thailand-06 TRUE Free",
-    "content": "vless://66726565-7670-4e2e-b573-2d6864627a62@apis.truemoney.com:443?path=%2Ffreevpn%2Ffreevpn.us-hdbzbzb39%2FIN&security=tls&encryption=none&host=inc-s39.v2sv.xyz&fp=randomized&type=ws&sni=inc-s39.v2sv.xyz#%5BIN%5D+freevpn.us-hdbzbzb39"
+    "content": "vmess://eyJhZGQiOiJ0cnVlLnZwbnNzaC5vbmxpbmUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZyZWUyLnNwYXJ0LmNsb3VkIiwiaWQiOiJhZDhjMjIxYy0wZDUxLTRjYWQtODJlNi1jOWM5ZmUzZjAwMzMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5IiwicG9ydCI6IjgwIiwicHMiOiLhgIDhgK3hgK/hgJrhgLfhgLrhgJnhgLHhgLjhgIDhgK3hgK/hgJrhgLfhgLrhgJzhgK3hgK/hgLjhgJbhgK3hgK/hgIThgLrhgJ7hgIHhgK3hgK/hgLgtbGl0ZTYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
     },
+
 {
     "name": "Thailand-07 TRUE Free",
-    "content": "vless://66726565-7670-4e2e-b573-2d7367736731@true.vpnssh.online:80?path=%2Ffreevpn%2Ffreevpn.us-sgsg1%2FSG&security=none&encryption=none&host=sgc-s69.v2sv.xyz&type=ws#%5BSG%5D+freevpn.us-sgsg1"
+    "content": "vmess://eyJhZGQiOiJ0cnVlLnZwbnNzaC5vbmxpbmUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZyZWUxLnNwYXJ0LmNsb3VkIiwiaWQiOiIxMzgxNDI1Ni0yZWE1LTRkMTgtOTAxYS05MGU3Zjk0OWM2NDYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5IiwicG9ydCI6IjgwIiwicHMiOiLhgIDhgK3hgK/hgJrhgLfhgLrhgJnhgLHhgLjhgIDhgK3hgK/hgJrhgLfhgLrhgJzhgK3hgK/hgLjhgJbhgK3hgK/hgIThgLrhgJ7hgIHhgK3hgK/hgLgtbGl0ZTciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
     },
+
 {
     "name": "Thailand-08 TRUE Free",
-    "content": "vless://66726565-7670-4e2e-b573-2d7367736732@true.vpnssh.online:80?path=%2Ffreevpn%2Ffreevpn.us-sgsg28%2FSG&security=none&encryption=none&host=sgc-s28.v2sv.xyz&type=ws#%5BSG%5D+freevpn.us-sgsg28"
-    },
-{
-    "name": "Thailand-09 TRUE Free",
-    "content": "vless://66726565-7670-4e2e-b573-2d7367736731@true.vpnssh.online:80?path=%2Ffreevpn%2Ffreevpn.us-sgsg1%2FSG&security=none&encryption=none&host=sgc-s69.v2sv.xyz&type=ws#%5BSG%5D+freevpn.us-sgsg1"
-    },
-{
-    "name": "Thailand-10 TRUE Free",
-    "content": "vless://66726565-7670-4e2e-b573-2d686462636e@apis.truemoney.com:443?path=%2Ffreevpn%2Ffreevpn.us-hdbcnf12%2FSG&security=tls&encryption=none&host=sgc-s12.v2sv.xyz&fp=randomized&type=ws&sni=sgc-s12.v2sv.xyz#%5BSG%5D+freevpn.us-hdbcnf12"
+    "content": "vmess://eyJhZGQiOiJ0cnVlLnZwbnNzaC5vbmxpbmUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZyZWUyLnNwYXJ0LmNsb3VkIiwiaWQiOiI1NWFlNjg0NS0zYzE0LTRiOGMtYThkNi05NGZkYWYwMmQzYzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5IiwicG9ydCI6IjgwIiwicHMiOiLhgIDhgK3hgK/hgJrhgLfhgLrhgJnhgLHhgLjhgIDhgK3hgK/hgJrhgLfhgLrhgJzhgK3hgK/hgLjhgJbhgK3hgK/hgIThgLrhgJ7hgIHhgK3hgK/hgLgtbGl0ZTgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
     }
     ]
     }
